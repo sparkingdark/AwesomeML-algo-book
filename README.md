@@ -1,6 +1,8 @@
 # AwesomeML-algo-book
 A book where you can find all type definition and information about ml algorithms. I gather the information from stack overflow,scikit-learn and other creative commons sources.Countributions welcome.
 
+The book can be found here: https://archlinuxlove.gitbook.io/awesome-ml-algo/
+
 ## Introduction
 
 Machine learning is currently on the trend and a awesome technology , which solves many problem. Now these days many people want to learn and learning the ml. So making their learning easy and also making a open source encyclopedia of machine learning algorithms , I created this project.
