@@ -13,7 +13,7 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 
 ## List Of Algorithms
 
-- [Linear Regression](./linear regression.md)
+- ![Linear Regression](./linear regression.md)
 
 ## How to be a contributor?
 
