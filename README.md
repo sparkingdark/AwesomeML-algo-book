@@ -16,6 +16,10 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 - [Linear Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/linear%20regression.md)
 - [Logistic Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/logistic%20regression.md)
 
+## Reference & Open source Github repo used:
+
+- https://github.com/trekhleb/homemade-machine-learning
+
 ## How to be a contributor?
 
 As it's a open source project,open source contributions are openly welcome.If you have an idea of a algorithm please open a issue or a pr at https://github.com/sparkingdark/AwesomeML-algo-book . 
