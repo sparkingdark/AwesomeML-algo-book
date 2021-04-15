@@ -11,6 +11,10 @@ Machine learning is currently on the trend and a awesome technology , which solv
 
 The structure I am thinking is pretty straight forward , for a algorithm a separate page. That's way we can create a very clear and valuable information book where anyone can find information regarding the algorithms.
 
+## List Of Algorithms
+
+- [Linear Regression](./linear regression.md)
+
 ## How to be a contributor?
 
 As it's a open source project,open source contributions are openly welcome.If you have an idea of a algorithm please open a issue or a pr at https://github.com/sparkingdark/AwesomeML-algo-book . 

@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: action-gitbook-sync-dir
+  uses: mineko-io/action-gitbook-sync-dir@v1.0.11
