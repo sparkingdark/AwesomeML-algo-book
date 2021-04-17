@@ -15,6 +15,7 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 
 - [Linear Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/docs/linear%20regression.md)
 - [Logistic Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/docs/logistic%20regression.md)
+- [K means Clustering](./docs/k_means_clustering.md)
 
 ## Interesting Github repo list: [github repos and gitbooks](./github_repo.md)
 
