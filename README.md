@@ -13,8 +13,10 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 
 ## List Of Algorithms
 
-- [Linear Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/linear%20regression.md)
-- [Logistic Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/logistic%20regression.md)
+- [Linear Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/docs/linear%20regression.md)
+- [Logistic Regression](https://github.com/sparkingdark/AwesomeML-algo-book/blob/main/docs/logistic%20regression.md)
+
+## Interesting Github repo list: [github repos and gitbooks](./github_repo.md)
 
 ## Reference & Open source Github repo used:
 
