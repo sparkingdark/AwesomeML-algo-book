@@ -1,5 +1,5 @@
 # AwesomeML-algo-book
-![fork my repository](https://github.com/sparkingdark/AwesomeML-algo-book/fork)
+
 A book where you can find all type definition and information about ml algorithms. I gather the information from stack overflow,scikit-learn and other creative commons sources.Countributions welcome.
 
 The book can be found here: https://archlinuxlove.gitbook.io/awesome-ml-algo/
