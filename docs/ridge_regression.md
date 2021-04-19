@@ -10,13 +10,13 @@ coefficients. The ridge coefficients minimize a penalized residual sum
 of squares:
 
 
-[img](../images/ridge_reg/equation1.png)
+[img](../images/ridge-reg/equation1.png)
 
 The complexity paramete controls the amount
 of shrinkage the larger the value of , the greater the amount
 of shrinkage and thus the coefficients become more robust to collinearity.
 
-[figure](../images/ridge_reg/sphx_glr_plot_ridge_path_0011.png)
+[figure](../images/ridge-reg/sphx_glr_plot_ridge_path_0011.png)
 
 As with other linear models, `Ridge` will take in its `fit` method
 arrays X, y and will store the coefficients `w` of the linear model in
