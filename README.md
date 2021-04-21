@@ -1,5 +1,8 @@
 # AwesomeML-algo-book
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+-
+
 A book where you can find all type definition and information about ml algorithms. I gather the information from stack overflow,scikit-learn and other creative commons sources.Countributions welcome.
 
 The book can be found here: https://sparkingdebo.gitbook.io/awesome-ml-book/
@@ -29,3 +32,4 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 ## How to be a contributor?
 
 As it's a open source project,open source contributions are openly welcome.If you have an idea of a algorithm please open a issue or a pr at https://github.com/sparkingdark/AwesomeML-algo-book . 
+--
