@@ -32,4 +32,4 @@ The structure I am thinking is pretty straight forward , for a algorithm a separ
 ## How to be a contributor?
 
 As it's a open source project,open source contributions are openly welcome.If you have an idea of a algorithm please open a issue or a pr at https://github.com/sparkingdark/AwesomeML-algo-book . 
---
+
